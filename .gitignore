@@ -1,0 +1,12 @@
+﻿# KiCad temporary, lock, and local cache files
+*.kicad_prl
+*.lck
+*.bak
+*.000
+*.tmp
+_autosave-*
+fp-info-cache
+
+# Local backup history & Syncthing conflict files
+.history/
+*.sync-conflict-*
